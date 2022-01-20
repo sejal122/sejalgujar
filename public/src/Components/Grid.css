@@ -1,0 +1,98 @@
+
+#container{
+    width: 100%;
+    align-self: center;
+   
+    justify-content: center;
+    align-content: center;
+    
+}
+#card3 , #card1{
+    
+    margin-left: 25%;
+
+}
+#card2 , #card4,#card3 , #card1{
+    
+    width: fit-content;
+    align-self: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 6px 20px;
+    justify-content: center;
+    align-content: center;
+    border: none;
+    
+}
+#card3 ,#card4{
+    margin-top: -160px;
+}
+#card1,#card2{
+    margin-top: -50px;
+}
+@media only screen and (max-width: 768px) {
+    #card1{
+        margin-top: 10px;
+    }
+    #card2{
+        margin-top: 10px;
+    }
+    #card3{
+        margin-top: 10px;
+    }
+    #card4{
+        margin-top: 10px;
+    }
+#card2 ,#card4{
+    margin-left: 25%;
+}
+
+}
+@media only screen and (max-width: 375px) {
+
+#card2 ,#card4 , #card1 , #card3{
+    margin-left: 2%;
+}
+
+}
+
+
+    @media only screen and (min-width: 390px) {
+        #card2 ,#card4 , #card1 , #card3{
+            
+        }
+        
+        }
+        
+        @media only screen and (max-width: 1077px) {
+            #card2 ,#card4 , #card1 , #card3{
+                margin-left: 10%;
+            }
+              }
+
+              @media only screen and (max-width: 991px) {
+
+                #card2 ,#card4 , #card1 , #card3{
+                    margin-left: 25%;
+                }
+                #card1{
+                    margin-top: 10px;
+                }
+                #card2{
+                    margin-top: 10px;
+                }
+                #card3{
+                    margin-top: 10px;
+                }
+                #card4{
+                    margin-top: 10px;
+                }
+                }
+                @media only screen and (max-width: 495px) {
+                    #card2 ,#card4 , #card1 , #card3{
+                        margin-left: 15%;
+                    }
+                }
+                @media only screen and (max-width: 375px) {
+                    #card2 ,#card4 , #card1 , #card3{
+                        margin-left: 2%;
+                    }
+                }

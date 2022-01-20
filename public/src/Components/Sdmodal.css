@@ -1,0 +1,158 @@
+#sdbtn{
+    padding: 15px;
+    width: 30vh;
+    
+    letter-spacing: 2px;
+    background-color: white;
+    border: none;
+    color: black;
+}
+#skills{
+    height: fit-content;
+    
+}
+#exp
+{
+    height: fit-content;
+}
+#projects
+{
+    margin-top: 40px;
+    height: fit-content;
+}
+.titles{
+    font-weight: 500;
+}
+@media only screen and (max-width: 768px) {
+  #sdbtn{
+    font-size: 2vh;
+    letter-spacing: 1px;
+    padding: 2px;
+    height: 70px;
+    width: 140px !important;
+}
+  }
+  
+
+  @media only screen and (max-width: 1077px) {
+    #sdbtn{
+        font-size: 2vh !important;
+        letter-spacing: 1px;
+        padding: 2px;
+        height: 70px;
+        width: 190px !important;
+    }
+      }
+  
+@media only screen and (max-width: 375px) {
+#sdbtn{
+    font-size: 2vh;
+    letter-spacing: 1px;
+    padding: 2px;
+    height: 70px;
+    width: 80px;
+}
+}
+@media only screen and (max-width: 820px) {
+    #sdbtn{
+        font-size: 2vh;
+        letter-spacing: 1px;
+        padding: 2px;
+        height: 70px;
+        width: 180px;
+    }
+    }
+    @media only screen and (max-width: 912px) {
+        #sdbtn{
+            font-size: 1.5vh;
+            letter-spacing: 1px;
+            padding: 2px;
+            height: 70px;
+            width: 200px;
+        }
+        }
+        @media only screen and (max-width: 540px) {
+            #sdbtn{
+                font-size: 1.5vh;
+                letter-spacing: 1px;
+                padding: 2px;
+                height: 70px;
+                width: 200px;
+            }
+            }
+            @media only screen and (max-width: 1276px) {
+
+                #sdbtn{
+                    font-size: 1.5vh;
+                    letter-spacing: 1px;
+                    padding: 2px;
+                    height: 70px;
+                    width: 260px;
+                }
+                }
+                @media only screen and (max-width: 768px) {
+                    #sdbtn{
+                        font-size: 1.5vh;
+                        letter-spacing: 1px;
+                        
+                        height: 70px;
+                        width: 200px !important;
+                    }
+                }
+                @media only screen and (max-width: 795px) {
+                    #sdbtn{
+                        font-size: 1.5vh;
+                        letter-spacing: 1px;
+                        
+                        height: 70px;
+                        width: 170px !important;
+                    }
+                }
+                @media only screen and (max-width: 711px) {
+                    #sdbtn{
+                        font-size: 1.5vh;
+                        letter-spacing: 1px;
+                        
+                        height: 70px;
+                        width: 150px !important;
+                    }
+                }
+                @media only screen and (max-width: 631px) {
+                    #sdbtn{
+                        font-size: 1.5vh;
+                        letter-spacing: 1px;
+                        
+                        height: 70px;
+                        width: 130px !important;
+                    }
+                }
+                @media only screen and (max-width: 525px) {
+                    #sdbtn{
+                        font-size: 1.5vh;
+                        letter-spacing: 1px;
+                        
+                        height: 70px;
+                        width: 100px !important;
+                    }
+                }
+                @media only screen and (max-width: 415px) {
+                    #sdbtn{
+                        font-size: 2vh;
+                        letter-spacing: 1px;
+                        
+                        height: 70px;
+                        width: 80px !important;
+                    }
+                }
+                @media only screen and (max-width: 414px) {
+                    #sdbtn{
+                        font-size: 1.5vh !important;
+                        width: 90px !important;
+                    }
+                }
+                @media only screen and (max-width: 386px) {
+                    #sdbtn{
+                        font-size: 1.5vh !important;
+                        width: 80px !important;
+                    }
+                }

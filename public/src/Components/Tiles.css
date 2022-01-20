@@ -1,0 +1,13 @@
+#btn{
+    padding: 15px;
+    width: 30vh;
+    
+    letter-spacing: 2px;
+    background-color: white;
+    border: none;
+    color: black;
+}
+Button:hover{
+    cursor: pointer;
+    background-color: none;
+}

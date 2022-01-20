@@ -1,0 +1,8 @@
+.modalbackground{
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
